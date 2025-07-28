@@ -1,6 +1,6 @@
 
 
-<img src="[https://cdn.dribbble.com/users/115123/screenshots/19591267/minimalist_todo_list_ui.png](https://lh6.ggpht.com/aiY9J8YK8Lzr7hMC7nZWlZGiBn8TF_PY7NVNy5U1i5g4zG8yEPzEZTJK2WwbWJUogg)" width="300" alt="Minimalist To-Do UI mockup">
+<img src="[https://cdn.dribbble.com/users/115123/screenshots/19591267/minimalist_todo_list_ui.png]" width="300" alt="Minimalist To-Do UI mockup">
 
 
 ## Simple Todo List App Docs
