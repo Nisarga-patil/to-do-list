@@ -1,6 +1,7 @@
 
 
-#  <img src="https://github.com/takitajwar17/Simple-Todo-List-Refactored/assets/111155827/4b1c2e01-f24b-4f39-899e-c356d468e386" width="300">
+<img src="https://cdn.dribbble.com/users/115123/screenshots/19591267/minimalist_todo_list_ui.png" width="300" alt="Minimalist To-Do UI mockup">
+
 
 ## Simple Todo List App Docs
 
