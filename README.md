@@ -169,4 +169,8 @@ The project follows a modular and organized structure to enhance readability, ma
    - Use the palette icon in the top-right corner to open the theme switcher.
    - Select a theme from the available options.
 
+## Contact
+
+For questions or collaboration, feel free to email me at  
+[📧 pnisarga7@gmail.com](mailto:pnisarga7@gmail.com)
 
