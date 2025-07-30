@@ -7,7 +7,7 @@
 
 ## Table of Contents
 
-1. [Introduction](#1-introduction)
+1. [Introduction](#1-Introduction)
 2. [Project Overview](#2-project-overview)
 3. [Getting Started](#3-getting-started)
 4. [Code Structure](#4-code-structure)
